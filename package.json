@@ -90,7 +90,7 @@
     "pretty-bytes": "v6 is pure ESM"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.3",
+    "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^16.2.1",
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
     "@stoplight/prism-cli": "4.14.1",
